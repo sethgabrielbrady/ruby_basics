@@ -1,5 +1,3 @@
-def multiply(first_number, second_number)
-  first_number.to_f * second_number.to_f
-end
+my_hash = {'1' => 'jhfghj' ,'2' => 'asdfasd', '3' => 'asd' }
 
-puts multiply(235, 210)
+puts my_hash['2']
